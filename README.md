@@ -20,6 +20,18 @@
 ⚡ Fun fact: I debug faster at 2 AM than 2 PM.  
 
 ---
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/Kalyanithin/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved%20Problems-250%2F500-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Progress-50%25-0f62fe?style=for-the-badge">
+</p>
 
 ## 🛠️ Tech Stack  
 
