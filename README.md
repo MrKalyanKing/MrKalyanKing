@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Kalyan%20Badhavath&width=800&height=250&fontSize=60&color1=000000&color2=0f62fe" alt="banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Kalyan%20Nayak&width=800&height=250&fontSize=60&color1=000000&color2=0f62fe" alt="banner"/>
 </p>
 
 <h3 align="center">🚀 Full-Stack Developer | 🧩 Problem Solver | 🌍 Lifelong Learner</h3>
