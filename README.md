@@ -78,7 +78,7 @@
 ## 🤝 Connect with Me  
 
 <div align="center">
-  <a href="mailto:badhavathkalyan08@gmail.com">
+  <a href="mailto:badhavath.kalyan.nayak@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kalyan-badhavath-7a4178281/">
