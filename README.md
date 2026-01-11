@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me:  
+## 🧑‍💻 About Me  
 
 💡 Passionate about **designing scalable systems**, writing clean code, and solving challenging problems.  
 🎓 CS Undergrad @ Sri Indu College of Engineering & Tech (2022–2026).  
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔭 Featured Projects: 
+## 🔭 Featured Projects 
 
 ✨ **[Real-Time Ride Booking System](#)** – Scalable MERN stack app with real-time ride requests, driver matching, and live tracking.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
