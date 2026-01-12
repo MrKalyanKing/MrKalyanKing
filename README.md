@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me  :
+## 🧑‍💻 About Me 
 
 💡 Passionate about **designing scalable systems**, writing clean code, and solving challenging problems.  
 🎓 CS Undergrad @ Sri Indu College of Engineering & Tech (2022–2026).  
