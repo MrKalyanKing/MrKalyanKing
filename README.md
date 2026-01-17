@@ -15,7 +15,7 @@
 
 💡 Passionate about **designing scalable systems**, writing clean code, and solving challenging problems.  
 🎓 CS Undergrad @ Sri Indu College of Engineering & Tech (2022–2026).  
-🔭 Currently working on **full-stack apps + ML-integrated systems**.  
+🔭 Currently working on **full-stack apps + ML-integrated systems**. 
 🌱 Exploring **Cloud, DevOps practices, and Advanced System Design**.  
 ⚡ Fun fact: I debug faster at 2 AM than 2 PM.  
 
