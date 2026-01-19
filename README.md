@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me 
+## 🧑‍💻 About Me :
 
 💡 Passionate about **designing scalable systems**, writing clean code, and solving challenging problems.  
 🎓 CS Undergrad @ Sri Indu College of Engineering & Tech (2022–2026).  
@@ -20,7 +20,7 @@
 ⚡ Fun fact: I debug faster at 2 AM than 2 PM.  
 
 ---
-## 🏆 LeetCode Progress
+## 🏆 LeetCode Progress :
 
 <p align="center">
   <a href="https://leetcode.com/Kalyanithin/">
