@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Progress-50%25-0f62fe?style=for-the-badge">
 </p>
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me  :
 
 <div align="center">
   <a href="mailto:badhavath.kalyan.nayak@gmail.com">
