@@ -20,7 +20,7 @@
 ⚡ Fun fact: I debug faster at 2 AM than 2 PM.  
 
 ---
-## 🏆 LeetCode Progress :
+## 🏆 LeetCode Progress 
 
 <p align="center">
   <a href="https://leetcode.com/Kalyanithin/">
