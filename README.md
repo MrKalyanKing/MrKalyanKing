@@ -75,7 +75,7 @@
 
 ---
 
-## 🤝 Connect with Me  :
+## 🤝 Connect with Me  
 
 <div align="center">
   <a href="mailto:badhavath.kalyan.nayak@gmail.com">
