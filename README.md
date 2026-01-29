@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 GitHub Stats (Dark + Blue)  
+## 📈 GitHub Stats (Dark + Blue)  :
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrKalyanKing&show_icons=true&theme=tokyonight" height="160"/>
