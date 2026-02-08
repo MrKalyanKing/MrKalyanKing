@@ -3,7 +3,7 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Kalyan%20Nayak&width=800&height=250&fontSize=60&color1=000000&color2=0f62fe" alt="banner"/>
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | 🧩 Problem solver solvi| 🌍 Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧩 Problem solver sol| 🌍 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+scalable+apps+with+MERN;Solving+real-world+problems+with+code;Learning+%26+adapting+every+day;Turning+ideas+into+impactful+software" alt="Typing SVG" />
